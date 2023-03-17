@@ -32,7 +32,7 @@ public class SwaggerConfig {
                 "La API REST de ToDo App.",
                 "v1",
                 "Terms of service",
-                new Contact("Gilbert Ardila", "Gilbertferney@gmail.com", "myeaddress@company.com"),
-                "License of API", "API license URL", Collections.emptyList());
+                new Contact("Gilbert Ardila", "Gilbertferney@gmail.com", "gilbertardila.netlify.app"),
+                "MIT", "API license URL", Collections.emptyList());
     }
 }
